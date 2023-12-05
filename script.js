@@ -22,3 +22,4 @@ for(let i=0;i<10;i++){
     ans[i]=FortuneFactory(i, formSentence());
 }
 console.log(ans);
+console.log('version2')
